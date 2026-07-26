@@ -1,0 +1,6 @@
+{
+  "name": "Corporate Housing Proposal Deck",
+  "description": "B2B Corporate Housing Lease Proposal Presentation Deck",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
